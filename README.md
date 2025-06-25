@@ -69,8 +69,10 @@ Face recognition is powerful, but without liveness detection, it’s vulnerable 
 
 ---
 ## 📈 model performance
-![Alt Text](![Face Liveness Screenshot](FaceLivelinessOnCode/FaceLivelinessOnCode/frontend/src/Screenshot%202025-06-25%20131135.png)
-)
+<p align="center">
+  <img src="FaceLivelinessOnCode/FaceLivelinessOnCode/frontend/src/Screenshot%202025-06-25%20131135.png" alt="Face Liveness Screenshot" width="40%">
+</p>
+
 
 ## 📸 Demo    https://youtu.be/q5oJCUSrBRI
 
