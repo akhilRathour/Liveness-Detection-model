@@ -68,6 +68,8 @@ Face recognition is powerful, but without liveness detection, it’s vulnerable 
 - Tailwind CSS
 
 ---
+## 📈 model performance
+![Alt Text](FaceLivelinessOnCode/FaceLivelinessOnCode/frontend/src/Screenshot 2025-06-25 131135.png)
 
 ## 📸 Demo    https://youtu.be/q5oJCUSrBRI
 
