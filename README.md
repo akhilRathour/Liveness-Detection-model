@@ -113,37 +113,40 @@ Face recognition is powerful, but without liveness detection, it’s vulnerable 
 ---
 
 **Project Structure
-FaceLivelinessOnCode/
-├── backend/
-│   ├── config/              # Configuration files (e.g., DB, environment)
-│   ├── controllers/         # API logic and route controllers
-│   ├── models/              # Database models or schemas
-│   ├── routes/              # Route definitions
-│   └── server.js            # Main backend entry point (Express server)
-│
-├── frontend/
-│   ├── public/              
-│   │   ├── tf_model/        # TensorFlow.js model files
-│   │   ├── tfjs_model/      # Additional/alternate TFJS model files
-│   │   ├── favicon.ico
-│   │   ├── index.html       # Main HTML template
-│   │   ├── logo192.png
-│   │   ├── logo512.png
-│   │   ├── manifest.json
-│   │   └── robots.txt
+FaceLivelinessProject/
+├── FaceLivelinessOnCode/
+│   ├── backend/
+│   │   ├── config/              # Configuration files (e.g., DB, environment)
+│   │   ├── controllers/         # API logic and route controllers
+│   │   ├── models/              # Database models or schemas
+│   │   ├── routes/              # Route definitions
+│   │   └── server.js            # Main backend entry point (Express server)
 │   │
-│   └── src/
-│       ├── assets/          # Static assets (images, styles, etc.)
-│       ├── components/      # Reusable React components
-│       ├── context/         # React context for global state
-│       ├── pages/           # Route-level React components
-│       ├── App.css
-│       ├── App.js           # Root React component
-│       ├── App.test.js      # Test file for App
-│       ├── index.css
-│       ├── index.js         # Entry point for React DOM rendering
-│       ├── logo.svg
-│       ├── reportWebVitals.js
-│       └── setupTests.js    # Jest setup for testing
+│   ├── frontend/
+│   │   ├── public/              
+│   │   │   ├── tf_model/        # TensorFlow.js model files
+│   │   │   ├── tfjs_model/      # Alternate/converted model files
+│   │   │   ├── favicon.ico
+│   │   │   ├── index.html       # Main HTML template
+│   │   │   ├── logo192.png
+│   │   │   ├── logo512.png
+│   │   │   ├── manifest.json
+│   │   │   └── robots.txt
+│   │   │
+│   │   └── src/
+│   │       ├── assets/          # Static assets (images, styles, etc.)
+│   │       ├── components/      # Reusable React components
+│   │       ├── context/         # React context for global state
+│   │       ├── pages/           # Route-level React components
+│   │       ├── App.css
+│   │       ├── App.js           # Root React component
+│   │       ├── App.test.js
+│   │       ├── index.css
+│   │       ├── index.js         # React entry point
+│   │       ├── logo.svg
+│   │       ├── reportWebVitals.js
+│   │       └── setupTests.js
+│
+├── FaceLiveliness_ModelTraining.ipynb   # google collab file used for model training/inference/testing
 
 
