@@ -57,12 +57,12 @@ Face recognition is powerful, but without liveness detection, it’s vulnerable 
 
 ---
 
-## 📸 Demo
+## 📸 Demo    https://youtu.be/q5oJCUSrBRI
 
-[![Watch Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![Watch Demo](https://img.youtube.com/vi/q5oJCUSrBRI/0.jpg)](https://youtu.be/q5oJCUSrBRI)
 
 > 👆 Click the thumbnail to see the liveness detection model in action!  
-> (Replace `VIDEO_ID` with your actual YouTube video ID)
+
 
 ---
 
@@ -70,4 +70,4 @@ Face recognition is powerful, but without liveness detection, it’s vulnerable 
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/liveness-detection.git
+   git clone https://github.com/akhilRathour/liveness-Detection-model.git
