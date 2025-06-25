@@ -1,9 +1,16 @@
 # 🔒 Liveness Detection Model
-![Status](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=flat-square&logo=tensorflow)
-![React](https://img.shields.io/badge/Frontend-React-blue?style=flat-square&logo=react)
-![FastAPI](https://img.shields.io/badge/Backend-FastAPI-green?style=flat-square&logo=fastapi)
+![Keras](https://img.shields.io/badge/Keras-API-red?style=flat-square&logo=keras)
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
+![Google Colab](https://img.shields.io/badge/Colab-Google-yellow?style=flat-square&logo=googlecolab)
+
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi)
+![Express.js](https://img.shields.io/badge/Express.js-Server-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb)
+
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=flat-square&logo=tailwind-css)
 
 A real-time, deep learning-based liveness detection and face verification platform designed for secure, fast, and browser-based identity authentication — optimized for low-end devices and Aadhaar-ready!
 
